@@ -13,7 +13,7 @@ Susun algoritma untuk menginput 3 buah bilangan yang masing-masing menyatakan pa
 - [Node](https://nodejs.org/) (Pastikan menggunakan versi yang sesuai)
 
 ## Cara Penggunaan
-- Menggunakan git => `git clone https://github.com/renofinsa/perancangan-dan-analisis-algoritma-tugas-02.git`
+- Menggunakan git => `git clone https://github.com/renofinsa/perancangan-dan-analisis-algoritma-tugas-03.git`
 - Atau bisa download file `tengah.js` atau `sisi.js` nya saja
 - Buka prompt/terminal lalu arahkan ke file `tengah.js` atau `sisi.js` yang telah didownload sebelumnya
 - Lalu jalankan menggunakan Node (*version), dengan cara `node sisi.js` atau `node tengah.js`
